@@ -10,10 +10,10 @@ description: > # this means to ignore newlines until "url:". One indent required
   Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
 
 # the base hostname & protocol for your site
-url: "http://opentheme.co"
+url: "http://priaonehaha.github.io"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: priaonehaha
+github_username:  priaonehaha
 
 default_image: /img/opentheme-workflow.png
 
@@ -50,7 +50,7 @@ comments: disqus      # Switch disqus | facebook | none - comments. facebook = t
 
 # Embeds
 
-disqus_name: opentheme            # Your site name at Disqus
+disqus_name: priaonehaha            # Your site name at Disqus
 
 youtube_controls: 0               # Turn on=1/off=0 Youtube player features when embedding videos
 
@@ -60,19 +60,19 @@ google_map_height: 450            # Default map height. Width adjusts to contain
 
 # API Keys. PLEASE DO NOT USE THESE KEYS. Get your own at links in comments.
 
-google_api_key: "AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0" # https://code.google.com/apis/console/
-google_analytics_ua: "UA-57703915-1" # Google Analytics site specific id
-google_cse_id: "012558675018178618302:kw1_r8qgyqc" # Google Custom Search Engine unique id
+google_api_key: "AIzaSyBBXPoXdTPRPY4FdVl0hg7yEHTkmujoJYM" # https://code.google.com/apis/console/
+google_analytics_ua: "UA-60404914-1" # Google Analytics site specific id
+google_cse_id: "011023886389584204147:xx6no9o5fku" # Google Custom Search Engine unique id
 
-mapbox: "pk.eyJ1Ijoib3BlbnRoZW1lIiwiYSI6ImNIWC1LTUUifQ.vq4k3nfTeTtDAk7eLCrVAw"
+mapbox: "pk.eyJ1IjoicHJpYW9uZWhhaGEiLCJhIjoiOFVXTXdxVSJ9.cH2Kjob0bt3YSOT7fAu50Q"
 
-facebook_app: "390272554479803" # https://developers.facebook.com/
+#facebook_app: "390272554479803" # https://developers.facebook.com/
 
-mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
-mailchimp_id: "3a51637dcc" # Mailchip id
+#mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
+#mailchimp_id: "3a51637dcc" # Mailchip id
 
-addthis_pubid: "ra-54a66cfa35915034" # Get your pubid at https://www.addthis.com/dashboard
+addthis_pubid: "ra-553d8eba263fe4fb" # Get your pubid at https://www.addthis.com/dashboard
 
-pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
+#pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
 
-uservoice: "nvdgD40UtxnMoshpVHYxg"
+#uservoice: "nvdgD40UtxnMoshpVHYxg"

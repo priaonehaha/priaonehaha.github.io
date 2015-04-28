@@ -10,12 +10,16 @@
         <div class="ui stackable grid">
                   
           <div class="row">
-            <div class="eight wide column">
-
-              {% include embed-mailchimp.html tagline="Join The OpenTheme Club" button="Get Free Updates!" %}
+            <div class="four wide column">
+              <img src="https://avatars3.githubusercontent.com/u/3519138?v=3&amp;s=180" class="img-rounded" width="120" height="120">
             </div>
             <div class="eight wide column">
               <h2 class="slim-header-light">{{ site.description }}</h2>
+            </div>
+            <div class="four wide column">
+              <a class="item" href="https://twitter.com/{{ site.twitter_username }}"><i class="twitter icon"></i> Twitter</a>
+              <a class="item" href="https://github.com/{{ site.github_username }}"><i class="github icon"></i> GitHub</a>
+              <a class="item" href="{{ site.url }}/feed.xml"><i class="rss icon"></i> Feed</a>
             </div>
           </div> <!-- .row -->
         </div> <!-- .grid -->

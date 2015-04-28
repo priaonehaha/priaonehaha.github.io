@@ -17,9 +17,14 @@
               <h2 class="slim-header-light">{{ site.description }}</h2>
             </div>
             <div class="four wide column">
-              <a class="item" href="https://twitter.com/{{ site.twitter_username }}"><i class="twitter icon"></i> Twitter</a>
-              <a class="item" href="https://github.com/{{ site.github_username }}"><i class="github icon"></i> GitHub</a>
-              <a class="item" href="{{ site.url }}/feed.xml"><i class="rss icon"></i> Feed</a>
+              <div class="column">
+                <h5 class="ui inverted header">Social</h5>
+                <div class="ui inverted link list">
+                  <a class="item" href="https://twitter.com/{{ site.twitter_username }}"><i class="twitter icon"></i> Twitter</a>
+                  <a class="item" href="https://github.com/{{ site.github_username }}"><i class="github icon"></i> GitHub</a>
+                  <a class="item" href="{{ site.url }}/feed.xml"><i class="rss icon"></i> Feed</a>
+                </div>
+              </div>
             </div>
           </div> <!-- .row -->
         </div> <!-- .grid -->
